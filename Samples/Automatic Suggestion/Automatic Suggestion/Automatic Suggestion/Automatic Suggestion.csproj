@@ -159,7 +159,7 @@
       <Version>6.2.10</Version>
     </PackageReference>
     <PackageReference Include="Syncfusion.SfRichTextBoxAdv.UWP">
-      <Version>32.1.19</Version>
+      <Version>33.1.44</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
